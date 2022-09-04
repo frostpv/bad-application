@@ -1,2 +1,2 @@
 # bad-application
-This is bad application test 6
+This is bad application test 7
